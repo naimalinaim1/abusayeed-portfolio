@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my_container {
+  @apply w-[94%] sm:w-[80%] lg:w-[95%] xl:max-w-[1340px] mx-auto;
+}
+
+:root {
+  --primary-color: #00A8cc;
+  --secondary-color: #0c7B93;
+  --primary-font: "Poppins", sans-serif;
+  --title-size: 36px;
+  --subtitle-size: 20px;
+}
+
+* {
+  font-family: var(--primary-font);
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
+.secondary-color {
+  color: var(--secondary-color);
+}
+
+.title-size {
+  font-size: var(--title-size);
+}
+
+.subtitle-size {
+  font-size: var(--subtitle-size);
+}
