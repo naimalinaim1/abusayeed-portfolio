@@ -9,7 +9,6 @@ const EducationInfo = () => {
         <div className="text-lg font-medium space-y-2 mt-4">
           <p>Collage: Savar Govt. College</p>
           <p>Subject: Bss (Degree)</p>
-          <p>Result: 4.50 (Out of 5.00)</p>
           <p>Session: 2023-2026</p>
           <p>Exam Year: upcoming</p>
         </div>
@@ -23,8 +22,8 @@ const EducationInfo = () => {
           <div className="text-lg font-medium space-y-2 mt-4">
             <p>Collage: Altafnagar Technical B.M College</p>
             <p>Group: Science</p>
-            <p>Result: 4.50 (Out of 5.00)</p>
-            <p>Session: 2010-2011</p>
+            <p>Result: 4.54 (Out of 5.00)</p>
+            <p>Session: 2020-2021</p>
             <p>Exam Year: 2022</p>
           </div>
         </div>
