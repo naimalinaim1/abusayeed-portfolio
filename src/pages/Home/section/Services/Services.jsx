@@ -12,31 +12,31 @@ const Services = () => {
   const services = [
     {
       id: 1,
-      img: img1,
-      title: "Create a Facebook Page",
-      description:
-        "Opening a Facebook Page for your business can offer various benefits and opportunities, contributing to your brand's online presence and overall success.",
-    },
-    {
-      id: 2,
-      img: img2,
-      title: "Optimize Your Page",
-      description:
-        "A well-optimized Page can significantly enhance your online presence, increase engagement, and help you achieve your goals on the platform",
-    },
-    {
-      id: 3,
       img: img3,
-      title: "Promote Your Page",
+      title: "Promote Your Business Page",
       description:
         "promoting your Facebook Page for your business through paid advertising can provide several advantages and help you achieve specific marketing goals. ",
     },
     {
+      id: 2,
+      img: img1,
+      title: "Create Facebook Page & Email",
+      description:
+        "Opening a Facebook Page for your business can offer various benefits and opportunities, contributing to your brand's online presence and overall success.",
+    },
+    {
+      id: 3,
+      img: img2,
+      title: "Optimize & Analyze  Your Business Page",
+      description:
+        "A well-optimized Page can significantly enhance your online presence, increase engagement, and help you achieve your goals on the platform",
+    },
+    {
       id: 4,
       img: img4,
-      title: "Utilize Facebook Groups",
+      title: "Google & Youtube Ads.",
       description:
-        "Utilizing Facebook Groups for your business can offer several advantages, fostering community, engagement, and brand loyalty.",
+        "Google and Youtube are two of the largest online platforms with billions of users. Running ads on these platforms can significantly increase your brand's visibility and reach a vast audience.",
     },
   ];
 

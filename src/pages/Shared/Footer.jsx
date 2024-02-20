@@ -20,33 +20,43 @@ const Footer = () => {
               {/* services link */}
               <nav className="space-y-6 lg:pl-16">
                 <header className="text-2xl font-bold text-white mb-8">
-                  Services
+                  Social Links
                 </header>
                 <p>
-                  <a className="text-xl cursor-pointer inline-block hover:text-white">
-                    Create a Facebook Page
+                  <a
+                    href="https://www.facebook.com/people/Mohammad-Abu-Sayeed/100012682174249/?mibextid=ZbWKwL"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xl cursor-pointer inline-block hover:text-white"
+                  >
+                    Facebook
                   </a>
                 </p>
                 <p>
-                  <a className="text-xl cursor-pointer inline-block hover:text-white">
-                    Optimize Your Page
+                  <a
+                    href="https://twitter.com/MediaTafseer"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xl cursor-pointer inline-block hover:text-white"
+                  >
+                    Twitter
                   </a>
                 </p>
                 <p>
-                  <a className="text-xl cursor-pointer inline-block hover:text-white">
-                    Promote Your Page
-                  </a>
-                </p>
-                <p>
-                  <a className="text-xl cursor-pointer inline-block hover:text-white">
-                    Utilize Facebook Groups
+                  <a
+                    href="https://www.instagram.com/abusayeed4412/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xl cursor-pointer inline-block hover:text-white"
+                  >
+                    instagram
                   </a>
                 </p>
               </nav>
               {/* More */}
               <nav className="space-y-6 lg:pl-20">
                 <header className="text-2xl font-bold text-white mb-8">
-                  More
+                  Page
                 </header>
                 <p>
                   <Link
