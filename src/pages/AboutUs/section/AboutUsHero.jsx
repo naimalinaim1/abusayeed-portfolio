@@ -18,16 +18,13 @@ const AboutUsHero = () => {
             About{" "}
             <span className="text-[var(--primary-color)]">Abu Sayeed Inc.</span>
           </h2>
-
           <p className="text-gray-700 mb-6">
-            <p className="text-gray-700 mb-6">
-              Hello, I{"'"}m Abu Sayeed, the founder of Abu Sayeed Inc. I
-              established this digital marketing company in 2024 with a passion
-              for helping businesses thrive in the online landscape. With a keen
-              understanding of the ever-evolving digital landscape,{" "}
-              <strong>Abu Sayeed Inc</strong> provides cutting-edge digital
-              marketing solutions that drive results.
-            </p>
+            Hello, I{"'"}m Abu Sayeed, the founder of Abu Sayeed Inc. I
+            established this digital marketing company in 2024 with a passion
+            for helping businesses thrive in the online landscape. With a keen
+            understanding of the ever-evolving digital landscape,{" "}
+            <strong>Abu Sayeed Inc</strong> provides cutting-edge digital
+            marketing solutions that drive results.
           </p>
 
           <h3 className="text-xl font-semibold mb-4">Our Mission</h3>
